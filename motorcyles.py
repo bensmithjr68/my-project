@@ -1,0 +1,10 @@
+motorcyles = ['honda', 'yamaha', 'suzuki', 'ducati']
+print(motorcyles)
+popped_motorcyles = motorcyles.pop()
+print(motorcyles)
+popped_motorcyles = motorcyles.pop()
+print(motorcyles)
+popped_motorcyles = motorcyles.pop()
+print(motorcyles)
+popped_motorcyles = motorcyles.pop()
+print(motorcyles)
